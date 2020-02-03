@@ -1,1 +1,1 @@
-# newProject
+# Simple Library
